@@ -1,4 +1,4 @@
-.header{
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -12,14 +12,14 @@
     background-color: rgba(0, 0, 0, 0.85);
     transition: 0.5s;
 }
-.nav-menu{
+.nav-menu {
     display:flex;
 }
 
-.nav-menu li{
-    padding: 0 1em;
+.nav-menu li {
+    padding: 0 1rem;
 }
-.nav-menu li a{
+.nav-menu li a {
     font-size: 1.2rem;
     font-weight: 500;
 }
@@ -42,12 +42,13 @@
         z-index: -3;
         transition: 0.3s;
     }
-    .nav-menu.active{
+    
+    .nav-menu.active {
         left: 0;
     }
 
     .nav-menu li {
-        padding: 1rem;
+        padding: 1rem 0;
     }
     .nav-menu li a {
         font-size: 2rem;
@@ -55,5 +56,4 @@
     .hamburger {
         display: initial;
     }
-
 }
