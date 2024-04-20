@@ -11,14 +11,14 @@ view: "add link here"
 
 {
     imgsrc: pro2,
-    title: "Eccommerce Website Design",
+    title: "Portfolio Website Design",
     text: "Placeholder for descriptive text",
     view: "add link here"
 },
 
 {
     imgsrc: pro3,
-    title: "Eccommerce Website Design",
+    title: "Other Website Design",
     text: "Placeholder for descriptive text",
     view: "add link here"
 }

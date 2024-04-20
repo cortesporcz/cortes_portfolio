@@ -28,7 +28,7 @@
     display: none;
 }
 
-@media screen and(max-width: 1040px) {
+@media screen and (max-width: 1040px) {
     .nav-menu {
         flex-direction: column;
         justify-content: center;
@@ -46,7 +46,6 @@
     .nav-menu.active {
         left: 0;
     }
-
     .nav-menu li {
         padding: 1rem 0;
     }
