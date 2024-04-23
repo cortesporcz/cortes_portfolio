@@ -9,12 +9,12 @@ const Project = () => {
   return (
     <div>
       <Navbar />
-      <HeroImg2 heading="PROJECTS." text="Most recent work"/>
+      <HeroImg2 heading="PROJECTS" text="Most recent work"/>
       <Work />
       <PricingCard />
       <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default Project
+export default Project;
