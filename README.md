@@ -50,7 +50,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ![alt text](aboutPagePortfolio.png) <br>
 ![alt text](projectPagePortfolio.png) <br>
 Github: https://github.com/cortesporcz/cortes_portfolio <br>
-Netlify: https://ephemeral-croissant-4a0f5c.netlify.app/
+Netlify: https://ephemeral-croissant-4a0f5c.netlify.app/ <br>
+Link to video: https://drive.google.com/file/d/16u_YouFlPCIYG_lQcoA6gJQIA2BZ9K8b/view
 
 
 ## Available Scripts
